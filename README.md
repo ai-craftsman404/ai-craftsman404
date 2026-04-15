@@ -1,47 +1,26 @@
 # ai-craftsman404
 
-AI systems architect building product-grade agentic tools, security tooling, and applied research interfaces.
+AI systems architect shipping agentic products that turn prototype workflows into production outcomes.
 
-## Focus Areas
+![Focus: Multi-Agent Systems](https://img.shields.io/badge/Focus-Multi--Agent%20Systems-1f6feb) ![Focus: AI Security](https://img.shields.io/badge/Focus-AI%20Security-0b7a75) ![Focus: Developer Tooling](https://img.shields.io/badge/Focus-Developer%20Tooling-c2410c)
 
-- Multi-agent systems for research, security, and workflow orchestration
-- AI developer tools with strong product packaging and practical UX
-- Applied architectures across GCP, Azure AI Foundry, and modern TypeScript/Python stacks
+## Flagships
 
-## Flagship Repositories
+- [Metis-Intelligence](https://github.com/ai-craftsman404/Metis-Intelligence): Multi-agent intelligence system that turns noisy sources into high-signal technical briefs. [Release](https://github.com/ai-craftsman404/Metis-Intelligence/releases/tag/v0.1.0)
+- [GuardX](https://github.com/ai-craftsman404/GuardX): LLM prompt security scanner for injection, extraction, and RAG risk exposure. [Release](https://github.com/ai-craftsman404/GuardX/releases/tag/v0.1.0)
+- [MigrateX](https://github.com/ai-craftsman404/MigrateX): Migration assistant for moving Semantic Kernel and AutoGen stacks to Microsoft Agent Framework. [Release](https://github.com/ai-craftsman404/MigrateX/releases/tag/v0.1.0)
+- [PRODREADY](https://github.com/ai-craftsman404/PRODREADY): AI-assisted SDLC hardening CLI for security checks, tests, and guided remediation. [Release](https://github.com/ai-craftsman404/PRODREADY/releases/tag/v0.1.0)
+- [AgentUX](https://github.com/ai-craftsman404/AgentUX): VS Code extension for screenshot-based UX audits with visual overlays and actionable findings. [Release](https://github.com/ai-craftsman404/AgentUX/releases/tag/v0.1.0)
+- [Multi-Agent-Medical-Triage-Conductor](https://github.com/ai-craftsman404/Multi-Agent-Medical-Triage-Conductor): Multi-agent triage orchestration with risk stratification and care-pathway guidance. [Release](https://github.com/ai-craftsman404/Multi-Agent-Medical-Triage-Conductor/releases/tag/v0.1.0)
 
-### [Metis-Intelligence](https://github.com/ai-craftsman404/Metis-Intelligence)
-AI research platform for high-signal technical intelligence, combining multi-agent orchestration, product-grade UX, and GCP-native deployment.
+## Now
 
-### [GuardX](https://github.com/ai-craftsman404/GuardX)
-LLM security scanner for Claude Code, with MCP-based testing for prompt injection, RAG risks, and supply-chain exposure.
+- Tightening portfolio UX for fast recruiter scan time and stronger shipped-product signals.
+- Standardizing README openings across pinned repos with explicit outcomes and proof links.
+- Prioritizing practical architecture clarity over research-style narrative depth.
 
-### [AgentUX](https://github.com/ai-craftsman404/AgentUX)
-VS Code extension for AI-assisted UX analysis, combining screenshot inspection, multi-agent evaluation, and an interactive webview.
+## Contact
 
-### [PRODREADY](https://github.com/ai-craftsman404/PRODREADY)
-AI SDLC hardening CLI that turns Next.js and React prototypes into production-ready applications through security, testing, and automated remediation.
-
-### [MigrateX](https://github.com/ai-craftsman404/MigrateX)
-CLI migration assistant for moving Semantic Kernel and AutoGen codebases to Microsoft Agent Framework with analysis, refactoring, and git-based review.
-
-### [Multi-Agent-Medical-Triage-Conductor](https://github.com/ai-craftsman404/Multi-Agent-Medical-Triage-Conductor)
-Azure AI Foundry and Semantic Kernel application for multi-agent medical triage, risk stratification, and care pathway decision support.
-
-## Working Style
-
-I build AI systems as products, not just demos:
-
-- clear positioning and technical storytelling
-- applied architecture with deployment reality in mind
-- developer-facing tooling with operational depth
-- strong emphasis on UX, validation, and maintainability
-
-## Current Direction
-
-I am refining this portfolio to showcase practical AI systems design across:
-
-- agent orchestration
-- AI security and evaluation
-- developer productivity tooling
-- applied healthcare and research workflows
+- GitHub: [@ai-craftsman404](https://github.com/ai-craftsman404)
+- Project contact (Metis): [Open an issue](https://github.com/ai-craftsman404/Metis-Intelligence/issues)
+- Security/tooling contact (GuardX): [Open an issue](https://github.com/ai-craftsman404/GuardX/issues)
